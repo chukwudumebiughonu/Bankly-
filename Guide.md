@@ -10,3 +10,5 @@ Install query-string with: npm install query-string
 Install react-countup with: npm install react-countup
 
 Install chart.js with: npm install chart.js then; npm install react-chartjs-2
+
+Add sheet for mobilenav with: npx shadcn-ui@latest add sheet 
