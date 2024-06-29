@@ -12,3 +12,12 @@ Install react-countup with: npm install react-countup
 Install chart.js with: npm install chart.js then; npm install react-chartjs-2
 
 Add sheet for mobilenav with: npx shadcn-ui@latest add sheet 
+
+Add form for signup and sign with: npx shadcn-ui@latest add
+
+Create a backend with appwrite
+Create a backend appwrite api key
+Create a database 
+Create user collection
+Create transaction collection and copy the id to .env file 
+Create bank collection and copy the id to .env file 
