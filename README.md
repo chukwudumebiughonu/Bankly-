@@ -1,36 +1,80 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Bankly: Advanced Financial Management SaaS Platform
+About the Project
+Bankly is a sophisticated financial Software as a Service (SaaS) platform built with Next.js. It empowers users to connect multiple bank accounts, view real-time transactions, transfer money to other platform users, and comprehensively manage their finances.
+👉 Live Demo (Replace with your actual demo link)
+Key Features:
 
-## Getting Started
+Secure Authentication: Ultra-secure SSR authentication with robust validations and authorization.
+Multi-Bank Integration: Seamlessly connect and manage multiple bank accounts using Plaid integration.
+Comprehensive Dashboard: Get a general overview of your accounts, including total balance from all connected banks, recent transactions, and spending categories.
+Bank Account Management: View and manage a complete list of all connected banks with respective balances and account details.
+Detailed Transaction History: Access your transaction history with pagination and filtering options for different banks.
+Real-time Updates: Experience immediate reflections of changes across all relevant pages when connecting new bank accounts.
+Secure Fund Transfers: Transfer funds to other accounts using Dwolla, with all required fields and recipient bank ID.
+Responsive Design: Enjoy a consistent user experience across desktop, tablet, and mobile platforms.
 
-First, run the development server:
+Tools and Technology
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Next.js
+TypeScript
+Appwrite
+Plaid
+Dwolla
+React Hook Form
+Zod
+TailwindCSS
+Chart.js
+ShadCN
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Detailed Feature Breakdown
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Authentication:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+SSR authentication
+Proper validations
+Robust authorization
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+Connect Banks:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Plaid integration
+Multiple bank account linking
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+Home Page:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Total balance from all connected banks
+Recent transactions
+Spending categories breakdown
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+My Banks:
+
+List of all connected banks
+Individual bank balances
+Detailed account information
+
+
+Transaction History:
+
+Pagination
+Filtering options
+Multi-bank transaction view
+
+
+Real-time Updates:
+
+Instant reflection of new bank connections
+
+
+Funds Transfer:
+
+Dwolla integration
+Required field validation
+Recipient bank ID verification
+
+
+Responsiveness:
+
+Adaptable to various screen sizes
+Consistent experience across devices
