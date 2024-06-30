@@ -5,7 +5,7 @@
 import * as Sentry from "@sentry/nextjs";
 
 Sentry.init({
-  dsn: "https://bc0d12dd235d56eaf487aee5b5f0cc00@o4507514809745408.ingest.us.sentry.io/4507514813415424",
+  dsn: "https://618b59ec1b15362db341338885840fd7@o4507514809745408.ingest.us.sentry.io/4507515945025536",
 
   // Adjust this value in production, or use tracesSampler for greater control
   tracesSampleRate: 1,
@@ -19,7 +19,7 @@ Sentry.init({
   // in development and sample at a lower rate in production
   replaysSessionSampleRate: 0.1,
 
-  // You can remove this option if you're not planning to use the Sentry Session Replay feature: 
+  // You can remove this option if you're not planning to use the Sentry Session Replay feature:
   integrations: [
     Sentry.replayIntegration({
       // Additional Replay configuration goes in here, for example:

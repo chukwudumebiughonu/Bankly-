@@ -23,3 +23,8 @@ Create transaction collection and copy the id to .env file
 Create bank collection and copy the id to .env file 
 Install node-appwrite
 Add sentry for security : npx @sentry/wizard@latest -i nextjs
+
+Install plaid with:  npm install react-plaid-link
+Install plaid package with: npm install plaid
+Install dwolla-v2 with: npm install dwolla-v2
+Add tabs with: npx shadcn-ui@latest add tabs

@@ -1,8 +1,6 @@
-
 "use client"
 
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";
-import React from "react";
 import { Doughnut } from "react-chartjs-2";
 
 ChartJS.register(ArcElement, Tooltip, Legend);
@@ -17,13 +15,11 @@ const DoughnutChart = ({ accounts }: DoughnutChartProps) => {
     datasets: [
       {
         label: 'Banks',
-        // data: balances,
-        data: [1250, 2500, 3750, 1100], 
-        backgroundColor: ['#0747b6', '#2265d8', '#2f91fa','#2f77fa'] 
+        data: balances,
+        backgroundColor: ['#0747b6', '#2265d8', '#2f91fa'] 
       }
     ],
-    // labels: accountNames
-    labels: ['Bank1', 'Bank2', 'Bank3', 'Bank4']
+    labels: accountNames
   }
 
   return <Doughnut 
