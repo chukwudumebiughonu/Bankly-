@@ -125,3 +125,33 @@ Screenshots of the Project 📸
 </p>
 
 ![Image Alt text](/public/homepage.png)
+
+<p align="center">
+   <a href="![Image Alt text](/public/signup.png)">
+     <h1>
+  My banks Page 👇
+     </h1>
+  </a>
+</p>
+
+![Image Alt text](/public/mybanks.png)
+
+<p align="center">
+   <a href="![Image Alt text](/public/signup.png)">
+     <h1>
+  Transaction History Page 👇
+     </h1>
+  </a>
+</p>
+
+![Image Alt text](/public/transactionhistory.png)
+
+<p align="center">
+   <a href="![Image Alt text](/public/signup.png)">
+     <h1>
+  Transfer Funds Page 👇
+     </h1>
+  </a>
+</p>
+
+![Image Alt text](/public/transferfunds.png)
