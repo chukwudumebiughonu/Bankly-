@@ -86,9 +86,19 @@ Screenshots of the Project 📸
 <p align="center">
    <a href="![Image Alt text](/public/signup.png)">
      <h1>
-  Sign-Up Page 
+  Sign-Up Page 👇
      </h1>
   </a>
 </p>
 
 ![Image Alt text](/public/signup.png)
+
+<p align="center">
+   <a href="![Image Alt text](/public/signup.png)">
+     <h1>
+  Link Account Page 👇
+     </h1>
+  </a>
+</p>
+
+![Image Alt text](/public/linkaccount.png)
