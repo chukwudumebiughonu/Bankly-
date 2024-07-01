@@ -84,11 +84,11 @@ Bankly is a sophisticated financial Software as a Service (SaaS) platform built 
 Screenshots of the Project 📸
 
 <p align="center">
-   <a href="![Image Alt text](/public/landingpage.png)">
+   <a href="![Image Alt text](/public/signup.png)">
      <h1>
-    Landing Page 
+  Sign-Up Page 
      </h1>
   </a>
 </p>
 
-![Image Alt text](/public/landingpage.png)
+![Image Alt text](/public/signup.png)
