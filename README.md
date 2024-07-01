@@ -30,53 +30,52 @@ Bankly is a sophisticated financial Software as a Service (SaaS) platform built 
 
 ## Detailed Feature Breakdown
 
-## 1. Authentication:
+### 1. Authentication:
 
-SSR authentication
-Proper validations
-Robust authorization
-
-
-Connect Banks:
-
-Plaid integration
-Multiple bank account linking
+* **SSR authentication**
+* **Proper validations**
+* **Robust authorization**
 
 
-Home Page:
+### 2. Connect Banks:
 
-Total balance from all connected banks
-Recent transactions
-Spending categories breakdown
-
-
-My Banks:
-
-List of all connected banks
-Individual bank balances
-Detailed account information
+* **Plaid integration**
+* **Multiple bank account linking**
 
 
-Transaction History:
+### 3. Home Page:
 
-Pagination
-Filtering options
-Multi-bank transaction view
-
-
-Real-time Updates:
-
-Instant reflection of new bank connections
+* **Total balance from all connected banks**
+* **Recent transactions**
+* **Spending categories breakdown**
 
 
-Funds Transfer:
+### 4.My Banks:
 
-Dwolla integration
-Required field validation
-Recipient bank ID verification
+* **List of all connected banks**
+* **Individual bank balances**
+* **Detailed account information**
 
 
-Responsiveness:
+### 4.Transaction History:
 
-Adaptable to various screen sizes
-Consistent experience across devices
+* **Pagination**
+* **Multi-bank transaction view**
+
+
+### 5. Real-time Updates:
+
+* **Instant reflection of new bank connections**
+
+
+### 6. Funds Transfer:
+
+* **Dwolla integration**
+* **Required field validation**
+* **Recipient bank ID verification**
+
+
+### 7. Responsiveness:
+
+* **Adaptable to various screen sizes**
+* **Consistent experience across devices**
