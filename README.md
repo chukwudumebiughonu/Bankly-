@@ -80,3 +80,15 @@ Bankly is a sophisticated financial Software as a Service (SaaS) platform built 
 
 * **Adaptable to various screen sizes**
 * **Consistent experience across devices**
+
+Screenshots of the Project 📸
+
+<p align="center">
+   <a href="![Image Alt text](/public/landingpage.png)">
+     <h1>
+    Landing Page 
+     </h1>
+  </a>
+</p>
+
+![Image Alt text](/public/landingpage.png)
