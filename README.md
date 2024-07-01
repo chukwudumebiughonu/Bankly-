@@ -2,7 +2,8 @@
 # Bankly: Advanced Financial Management SaaS Platform
 # About the  Project
 Bankly is a sophisticated financial Software as a Service (SaaS) platform built with Next.js. It empowers users to connect multiple bank accounts, view real-time transactions, transfer money to other platform users, and comprehensively manage their finances.
-* 👉 Live Demo [Live Demo](https://bankly-alpha.vercel.app)
+
+👉 Live Demo [Live Demo](https://bankly-alpha.vercel.app)
 
 ## Key Features:
 
