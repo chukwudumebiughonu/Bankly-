@@ -102,3 +102,16 @@ Screenshots of the Project 📸
 </p>
 
 ![Image Alt text](/public/linkaccount.png)
+
+<p align="center">
+   <a href="![Image Alt text](/public/signup.png)">
+     <h1>
+  Plaid Banks connection 👇
+     </h1>
+  </a>
+</p>
+
+![Image Alt text](/public/plaid1.png)
+![Image Alt text](/public/plaid2.png)
+![Image Alt text](/public/plaid3.png)
+![Image Alt text](/public/plaid4.png)
