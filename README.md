@@ -28,9 +28,9 @@ Bankly is a sophisticated financial Software as a Service (SaaS) platform built 
 * **Chart.js**
 * **ShadCN**
 
-Detailed Feature Breakdown
+## Detailed Feature Breakdown
 
-Authentication:
+*1 Authentication:
 
 SSR authentication
 Proper validations
