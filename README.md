@@ -1,30 +1,32 @@
-Bankly: Advanced Financial Management SaaS Platform
-About the Project
+
+# Bankly: Advanced Financial Management SaaS Platform
+# About the  Project
 Bankly is a sophisticated financial Software as a Service (SaaS) platform built with Next.js. It empowers users to connect multiple bank accounts, view real-time transactions, transfer money to other platform users, and comprehensively manage their finances.
 👉 Live Demo [Live Demo](https://bankly-alpha.vercel.app)
-Key Features:
 
-Secure Authentication: Ultra-secure SSR authentication with robust validations and authorization.
-Multi-Bank Integration: Seamlessly connect and manage multiple bank accounts using Plaid integration.
-Comprehensive Dashboard: Get a general overview of your accounts, including total balance from all connected banks, recent transactions, and spending categories.
-Bank Account Management: View and manage a complete list of all connected banks with respective balances and account details.
-Detailed Transaction History: Access your transaction history with pagination and filtering options for different banks.
-Real-time Updates: Experience immediate reflections of changes across all relevant pages when connecting new bank accounts.
-Secure Fund Transfers: Transfer funds to other accounts using Dwolla, with all required fields and recipient bank ID.
-Responsive Design: Enjoy a consistent user experience across desktop, tablet, and mobile platforms.
+## Key Features:
 
-Tools and Technology
+* **Secure Authentication**: Ultra-secure SSR authentication with robust validations and authorization.
+* **Multi-Bank Integration**: Seamlessly connect and manage multiple bank accounts using Plaid integration.
+* __Comprehensive Dashboard__: Get a general overview of your accounts, including total balance from all connected banks, recent transactions, and spending categories.
+* __Bank Account Management__: View and manage a complete list of all connected banks with respective balances and account details.
+* __Detailed Transaction History__: Access your transaction history with pagination and filtering options for different banks.
+* __Real-time Updates__: Experience immediate reflections of changes across all relevant pages when connecting new bank accounts.
+* __Secure Fund Transfers__: Transfer funds to other accounts using Dwolla, with all required fields and recipient bank ID.
+* __Responsive Design__: Enjoy a consistent user experience across desktop, tablet, and mobile platforms.
 
-Next.js
-TypeScript
-Appwrite
-Plaid
-Dwolla
-React Hook Form
-Zod
-TailwindCSS
-Chart.js
-ShadCN
+## Tools and Technonlogy
+
+* **Next.js**
+* **TypeScript**
+* **Appwrite**
+* **Plaid**
+* **Dwolla**
+* **React Hook Form**
+* **Zod**
+* **TailwindCSS**
+* **Chart.js**
+* **ShadCN**
 
 Detailed Feature Breakdown
 
